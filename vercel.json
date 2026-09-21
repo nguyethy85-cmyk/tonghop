@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/tv360",
+      "dest": "/api/tv360.js"
+    }
+  ]
+}
